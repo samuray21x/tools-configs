@@ -2,8 +2,10 @@
 Все уоманды приводимые в руководствах расчитаны на вызов при нахождении в главном каталоге данного репозитория если не указано иное
 
 ## zsh & Oh My Zsh!
-[Инструкции по настройке zsh](https://github.com/samuray21x/tools-configs/tree/main/zsh)
+[Инструкции по настройке zsh](https://github.com/samuray21x/tools-configs/tree/main/zsh).
 
+## VIM
+[Информация о конфигурации Vim и инструкции по настройке](https://github.com/samuray21x/tools-configs/tree/main/vim).
 
 
 
